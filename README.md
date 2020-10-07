@@ -1,5 +1,5 @@
 <h1 align="center"> 
-     👽 Hi, I'm Stas 👽
+     Hi, I'm Stas 👽
 </h1>
 <img src="https://img.shields.io/github/license/stasadance/stasadance">
 
