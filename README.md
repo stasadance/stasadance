@@ -1,5 +1,7 @@
 ## 🌊 Hi, I'm Stas
 
+![GitHub](https://img.shields.io/github/license/stasadance/stasadance)
+
 ```js
 (async (stas) => {
     while(stas.alive) {
