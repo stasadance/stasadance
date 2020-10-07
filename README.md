@@ -1,12 +1,14 @@
-## 🌊 Hi, I'm Stas
-
-![GitHub](https://img.shields.io/github/license/stasadance/stasadance)
+<h1 align="center"> 
+     👽 Hi, I'm Stas 👽
+</h1>
+<img src="https://img.shields.io/github/license/stasadance/stasadance">
 
 ```js
 (async (stas) => {
-    while(stas.alive) {
+    while (stas.alive) {
         await stas.deposit(await stas.code(await stas.think("io game ideas")));
         await stas.sleep();
     }
 })(this);
+
 ```
