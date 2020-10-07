@@ -1,6 +1,4 @@
-<h1 align="center"> 
-     Hi, I'm Stas 👽
-</h1>
+# Hi, I'm Stas 👽
 <img src="https://img.shields.io/github/license/stasadance/stasadance">
 
 ```js
