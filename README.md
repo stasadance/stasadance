@@ -1,4 +1,4 @@
-### Hi, I'm Stas
+## 🌊 Hi, I'm Stas
 
 ```js
 (async (stas) => {
