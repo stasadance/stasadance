@@ -1,14 +1,8 @@
-### Hi, I'm [Stas 👽](https://stas.gg) <a href="https://github.com/stasadance"><img style="margin-top:5px" align="right" src="https://gpvc.arturio.dev/stasadance"/></a>
-
 #
 
-<p align="center">
-    <a href="https://github.com/stasadance">
-        <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=stasadance&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-    </a>
-</p>
-
-#
+<h1 align="center">
+    <p>Hi, I'm <a href="https://stas.gg">Stas</a>. 👽</p>
+</h1>
 
 <p align="center">
     <a href="https://github.com/stasadance">
@@ -21,14 +15,30 @@
 
 #
 
+<p align="center">
+    <a href="https://github.com/stasadance">
+        <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=stasadance&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+    </a>
+</p>
+
+#
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/darevskiy/">
+        <img align="center" width="95%" src="https://skillicons.dev/icons?i=ts,js,html,css,wasm,kubernetes,docker,nginx,git,mongodb,nodejs,react,vite,regex,php,py,lua,java,pytorch,tensorflow,githubactions,electron,rollupjs,webpack,mysql,redis,cloudflare,figma,vscode,unreal&perline=10"/>
+    </a>
+</p>
+
+#
+
 <a href="https://github.com/stasadance">
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=stasadance&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
 </a>
 
 #
 
-<h5 align="center">
-    <a href="https://www.linkedin.com/in/darevskiy/">
-        <img width="100%" src="https://skillicons.dev/icons?i=ts,js,html,css,wasm,kubernetes,docker,nginx,git,mongodb,nodejs,react,vite,regex,php,py,lua,java,pytorch,tensorflow,githubactions,electron,rollupjs,webpack,mysql,redis,cloudflare,figma,vscode,unreal&perline=10"/>
+<p align="center">
+    <a href="https://github.com/stasadance">
+        <img align="center" src="https://gpvc.arturio.dev/stasadance"/>
     </a>
-</h5>
+</p>
