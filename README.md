@@ -32,14 +32,14 @@
 #
 
 <a href="https://github.com/stasadance">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=stasadance&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=stasadance&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
 </a>
 
 #
 
 <h3 align="center">
     <a href="https://github.com/stasadance">
-        <img align="center" src="https://gpvc.arturio.dev/stasadance"/>
+        <img align="center" src="https://komarev.com/ghpvc/?username=stasadance"/>
     </a>
 </h3>
 
