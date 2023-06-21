@@ -17,7 +17,7 @@
 
 <h3 align="center">
     <a href="https://github.com/stasadance">
-        <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=stasadance&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+        <img width="100%" align="center" src="https://profile-trophy.vercel.app/?username=stasadance&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
     </a>
 </h3>
 
