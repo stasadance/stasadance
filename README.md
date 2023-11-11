@@ -5,9 +5,9 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://github.com/stasadance">
+<!--     <a href="https://github.com/stasadance">
         <img align="center" width="52%" src="https://readme-stats-five-omega.vercel.app/api?username=stasadance&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&hide_title=true&ring_color=e052a1" />
-    </a>
+    </a> -->
     <a href="https://github.com/stasadance">
         <img align="center" width="46%" src="https://readme-streak.vercel.app/?user=stasadance&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
     </a>
